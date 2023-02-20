@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d06925fa609e01847b3e851f3e76bb20
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Console: {instanceID: 0}
+  - Lettre: {instanceID: 0}
+  - "MotCach\xE9": {instanceID: 0}
+  - Pendu: {instanceID: 0}
+  - PanelLose: {instanceID: 0}
+  - PanelWin: {instanceID: 0}
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
